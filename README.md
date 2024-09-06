@@ -21,13 +21,13 @@
         <td>pandas, matplotlib, seaborn, numpy.</td>
     </tr>
     <tr>
-        <td>Иван</td>
-        <td>30</td>
-        <td>Санкт-Петербург</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>Ольга</td>
-        <td>22</td>
-        <td>Новосибирск</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
