@@ -11,6 +11,11 @@
         <td>pandas, matplotlib, seaborn</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SergeyTsedrik/YandexPracticum/tree/main/Статистический%20анализ%20данных#статистический-анализ-данных">Статистический анализ данных</td>
+        <td>Проанализировать данные и проверить некоторые гипотезы, которые могут помочь бизнесу вырасти.</td>
+        <td>pandas, matplotlib, seaborn, numpy, scipy</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SergeyTsedrik/YandexPracticum/tree/main/Анализ%20бизнес-показателей">Анализ бизнес-показателей</td>
         <td>Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс.</td>
         <td>pandas, matplotlib, seaborn, numpy.</td>
